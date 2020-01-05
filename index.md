@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Warwick and Leamington Labour Women](/assets/img/banner.jpeg)
